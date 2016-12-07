@@ -1,0 +1,16 @@
+
+
+#### Test scenario 7 ##########
+{'Median_QR_degree': 1.0, 'R_sum_percentage': 35.56, 'Average_QR_degree': 1.375, 'std_QR_cord_top_row': 6, 'std_QR_cord_bottom_row': 4, 'Card_Degree': 0.5, 'Min_QR_detection_Accuracy': 13.86, 'Card_Orientation': True, 'Color_Correction_Error': 11.25, 'NO_QR_detected': 8, 'G_sum_percentage': 38.69, 'Card_Damaged/blocked': True, 'B_sum_percentage': 25.76, 'Card_Detection_Accuracy': 57.77, 'NO_QR_readable': 0}
+
+
+#### Test scenario 9 ##########
+{'Median_QR_degree': -1.0, 'R_sum_percentage': 33.78, 'Average_QR_degree': -1.5625, 'std_QR_cord_top_row': 1, 'std_QR_cord_bottom_row': 4, 'Card_Degree': -2.5, 'Min_QR_detection_Accuracy': 18.91, 'Card_Orientation': True, 'Color_Correction_Error': 8.13, 'NO_QR_detected': 8, 'G_sum_percentage': 32.28, 'Card_Damaged/blocked': False, 'B_sum_percentage': 33.94, 'Card_Detection_Accuracy': 57.82, 'NO_QR_readable': 0}
+
+
+#### Test scenario 14 ##########
+{'QR_readable_1': 'CH35R-T13-BVZ0072', 'QR_readable_2': 'CH35R-T14-BVZ0072', 'QR_readable_3': 'CH35R-T15-BVZ0072', 'QR_readable_4': 'CH35R-T16-BVZ0072', 'QR_readable_5': 'CH35R-T10-BVZ0072', 'QR_readable_6': 'CH35R-T11-BVZ0072', 'Median_QR_degree': 0.75, 'R_sum_percentage': 34.36, 'Average_QR_degree': 0.3125, 'std_QR_cord_top_row': 13, 'std_QR_cord_bottom_row': 8, 'Card_Degree': 0.0, 'Min_QR_detection_Accuracy': 16.39, 'Card_Orientation': True, 'Color_Correction_Error': 9.5, 'NO_QR_detected': 8, 'G_sum_percentage': 39.55, 'Card_Damaged/blocked': False, 'B_sum_percentage': 26.09, 'Card_Detection_Accuracy': 55.27, 'NO_QR_readable': 6}
+
+
+#### Test scenario 17 ##########
+{'QR_readable_1': 'CH37L-T06-BVZ0069', 'QR_readable_2': 'CH37L-T07-BVZ0069', 'QR_readable_3': 'CH37L-T01-BVZ0069', 'QR_readable_4': 'CH37L-T02-BVZ0069', 'QR_readable_5': 'CH37L-T03-BVZ0069', 'Median_QR_degree': -1.25, 'R_sum_percentage': 42.01, 'Average_QR_degree': -1.0625, 'std_QR_cord_top_row': 152, 'std_QR_cord_bottom_row': 158, 'Card_Degree': -0.5, 'Min_QR_detection_Accuracy': 8.57, 'Card_Orientation': False, 'Color_Correction_Error': 10.61, 'NO_QR_detected': 6, 'G_sum_percentage': 27.0, 'Card_Damaged/blocked': False, 'B_sum_percentage': 30.98, 'Card_Detection_Accuracy': 41.38, 'NO_QR_readable': 5}
